@@ -1,3 +1,2 @@
 # Java
-Contributing Java Codes Everyday
-Day -1
+<h2>Contributing Java Codes Everyday</h2>
